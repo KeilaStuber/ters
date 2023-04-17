@@ -1,0 +1,5 @@
+com/api/Adopet/AdopetApplication.class
+Repository/TutoresRepository.class
+Entity/Tutores.class
+Controller/TutoresController.class
+Service/TutoresService.class
